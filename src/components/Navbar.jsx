@@ -16,7 +16,7 @@ function Navbar() {
   const [open, setOpen] = useState(false);
 
   return (
-    <nav className="w-full border-b bg-white">
+    <nav className="w-full border-b border-[#E9E9E9] bg-white">
       <div className="container mx-auto px-6 py-3 flex justify-between items-center">
         
         {/* Logo */}
