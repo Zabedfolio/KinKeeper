@@ -11,7 +11,7 @@ const navItems = [
   { label: "Stats", icon: BarChart2, href: "/stats" },
 ];
 
-function Navbar() {
+const Navbar = ()=> {
   const pathname = usePathname();
   const [open, setOpen] = useState(false);
 

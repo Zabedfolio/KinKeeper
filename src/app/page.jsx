@@ -1,5 +1,5 @@
 import Friends from "./friends/page";
-import friends from "../data/friends.json";
+import friends from "../../public/friends.json";
 import { Circles } from "react-spinners";
 
 const HomePage = () => {
