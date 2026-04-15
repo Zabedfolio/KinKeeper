@@ -16,6 +16,7 @@
     "react-dom": "19.2.4",
     "react-hot-toast": "^2.6.0",
     "react-spinners": "^0.17.0",
+    "recharts": "^3.8.1",
     "spinners": "^1.2.2"
   },
   "devDependencies": {
